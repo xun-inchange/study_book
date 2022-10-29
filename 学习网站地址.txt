@@ -3,3 +3,4 @@
 	数据结构与算法之美: https://time.geekbang.org/column/intro/100017301?tab=catalog
 小林coding:
 	https://xiaolincoding.com/
+	go语言涉及与实现 https://draveness.me/golang/docs/part2-foundation/ch03-datastructure/golang-array-and-slice/
